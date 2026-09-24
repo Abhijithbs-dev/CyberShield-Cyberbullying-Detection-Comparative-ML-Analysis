@@ -1,5 +1,4 @@
-# 🛡️ CyberShield — Cyberbullying Detection & Comparative ML Analysis
-
+# 🛡️ Cyber Shield: A Scalable Real-Time Framework for Automated Cyberbullying Detection Using Classical Machine Learning and Asynchronous Web Architecture
 A full-stack web application for detecting cyberbullying using **comparative machine learning analysis**. Train, evaluate, and compare multiple ML pipelines side-by-side, then use the best model for real-time text prediction.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
